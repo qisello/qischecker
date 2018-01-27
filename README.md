@@ -18,7 +18,7 @@ Die App erlaubt das Prüfen des QIS-Systems der (momentan einzigen hinterlegten)
 
 Zwei Möglichkeiten:
 
-* Option 1: Die angebotene QISChecker.apk herunterladen, auf das Handy kopieren und dann über das Handy mit einem Dateimanager installieren.
+* Option 1: Die angebotene [QISChecker.apk](https://github.com/qisello/qischecker/raw/master/qischecker.apk) herunterladen, auf das Handy kopieren und dann über das Handy mit einem Dateimanager installieren.
 
 * Option 2: Den Quellcode auschecken, in Android Studio importieren und über Android Studio auf das Smartphone deployen. 
 
