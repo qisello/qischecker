@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QISChecker</string>
+
+    <string name="ONOFF">Appstatus:</string>
+    <string name="DEACTIVATE">deaktiviert</string>
+    <string name="ACTIVATE">aktiviert</string>
+    <string name="HELLOTEXT">Bite gib hier deine Daten für das QIS-System der Hochschule an. Sie werden verschlüsselt auf deinem Handy gespeichert und nur zur Abfrage der Noten verwendet.</string>
+    <string name="USERNAME">Benutzername:</string>
+    <string name="PASSWORD">Passwort:</string>
+    <string name="QUERYFREQ">Abfragehäufigkeit:</string>
+    <string name="ONLYWLAN">Nur bei WLAN abfragen</string>
+    <string name="SAVE">Speichern</string>
+    <string name="QIS_URL">https://qis.jade-hs.de/qisserver/rds?state=user&amp;type=1&amp;category=auth.login&amp;startpage=portal.vm&amp;breadCrumbSource=portal</string>
+    <string name="NEW_GRADES">Es sind neue Noten online</string>
+    <string name="NEW_GRADE">Es ist eine neue Note online</string>
+    <string name="LICENSE_TITLE">Verwendete Lizenzen</string>
+</resources>
