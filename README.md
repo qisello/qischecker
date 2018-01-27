@@ -22,6 +22,16 @@ Zwei Möglichkeiten:
 
 * Option 2: Den Quellcode auschecken, in Android Studio importieren und über Android Studio auf das Smartphone deployen. 
 
+## Wie benutze ich die App?
+
+Nach der Installation rufst du die App einfach auf, aktivierst sie und gibst im Anschluss deinen Benutzernamen und das Passwort vom QIS-System an. Wähle dann den Zeitabstand, in dem auf neue Noten geprüft werden soll und entscheide, ob nur bei aktiver WLAN-Verbindung eine Prüfung stattfindet.
+
+Bestätige deine Angaben mit der Schaltfläche **Speichern**.
+
+**Wichtig:** Nach dem Speichern wird erstmalig das QIS-System nach Noten abgefragt. Du erhältst in jedem Fall eine Benachrichtigung über neue Noten. Dies ist notwendig, um die bereits vorhandene Notenanzahl einmalig festzustellen.
+
+Wenn du die Benachrichtigung anklickst, öffnet dein Smartphone direkt den Browser und navigiert dich zur Login-Seite des QIS-Systems.
+
 ## Sonst noch was?
 
 Es gilt, wie immer: Nutzung auf eigene Gefahr. Keine Gewährleistung oder Garantie. Wird bereitgestellt unter der Apache License 2.0.
